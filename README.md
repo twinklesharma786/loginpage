@@ -1,6 +1,7 @@
-# loginpage
+# loginpage☑
 
-Simple Login Page Implementation in Python
+Simple Login Page Implementation in Python:
+
 This Python script implements a basic login system that prompts users for a username and a password, along with a confirmation for the password.
 
 Features:
